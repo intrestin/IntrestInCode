@@ -3,10 +3,6 @@
 The privacy aware, personally controlled, do-it-all, open source social
 network. [IntrestIn](http://intrestin.co.uk)
 
-************************
-IntrestIn is currently going through a huge refactoring push, the code is changing fast!
-If you want to do something big, reach out on IRC or the mailing list first, so you can contribute effectively <3333
-************************
 
 ## Are you a user?
 You can get an account at https://intrestin.co.uk. To try out the power of IntrestIn*
