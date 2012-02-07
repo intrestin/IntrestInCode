@@ -29,7 +29,7 @@ Read on for how to get started.
 
 Installation instructions are [here](http://github.com/diaspora/diaspora/wiki/Installing-and-Running-Diaspora).
 
-Thanks for helping battle test Diaspora.
+Thanks for helping battle test IntrestIn*.
 Please report any bugs you see at [GitHub Issues](https://github.com/diaspora/diaspora/issues).
 
 ## Contributing to Diaspora
@@ -60,11 +60,7 @@ Please do not rebase our tree into yours.
 See [here](http://www.mail-archive.com/dri-devel@lists.sourceforge.net/msg39091.html)
 for when to rebase.
 
-We need you to fill out a
-[contributor agreement form](https://spreadsheets.google.com/a/joindiaspora.com/spreadsheet/viewform?formkey=dFdRTnY0TGtfaklKQXZNUndsMlJ2eGc6MQ)
-before we can accept your patches.  This dual license agreement allows
-us to release limited pieces of Diaspora under the MIT license.  You can find it
-[here](https://spreadsheets.google.com/a/joindiaspora.com/spreadsheet/viewform?formkey=dFdRTnY0TGtfaklKQXZNUndsMlJ2eGc6MQ).
+
 
 ## Resources
 
@@ -73,22 +69,5 @@ Here is our [bug tracker](https://github.com/diaspora/diaspora/issues) and our
 find see what the core team is up to [here](http://www.pivotaltracker.com/projects/61641).
 
 
-Ongoing discussion:
 
-- [Diaspora Developer Google Group](http://groups.google.com/group/diaspora-dev)
-- [Diaspora Discussion Google Group](http://groups.google.com/group/diaspora-discuss)
-- [Diaspora Q&A site](http://diaspora.shapado.com/)
-- [Diaspora on Get Satisfaction](http://getsatisfaction.com/diaspora/)
-- [#diaspora IRC channel](irc://irc.freenode.net/#diaspora)
-  ([join via the web client](http://webchat.freenode.net?channels=diaspora))
-- [#diaspora-dev IRC channel](irc://irc.freenode.net/#diaspora-dev)
-  ([join via the web client](http://webchat.freenode.net?channels=diaspora-dev))
 
-More general info and updates about the project can be found on
-[our blog](http://blog.joindiaspora.com),
-[and on Twitter](http://twitter.com/joindiaspora).
-Also, be sure to join the official [mailing list](http://eepurl.com/Vebk).
-
-If you wish to contact us privately about any exploits in Diaspora you may
-find, you can email
-[exploits@joindiaspora.com](mailto:exploits@joindiaspora.com), [corresponding public key (keyID: 77485064)](http://pgp.mit.edu:11371/pks/lookup?op=vindex&search=0xCC6CAED977485064).
