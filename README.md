@@ -1,4 +1,4 @@
-# IntrestIn
+# IntrestIn*
 
 The privacy aware, personally controlled, do-it-all, open source social
 network. [IntrestIn](http://intrestin.co.uk)
@@ -32,7 +32,7 @@ Installation instructions are [here](http://github.com/diaspora/diaspora/wiki/In
 Thanks for helping battle test IntrestIn*.
 Please report any bugs you see at [GitHub Issues](https://github.com/diaspora/diaspora/issues).
 
-## Contributing to IntrestIn
+## Contributing to IntrestIn*
 
 ###[An introduction to the source code](http://github.com/diaspora/diaspora/wiki/An-Introduction-to-the-Diaspora-Source)
 ###[Issue tracker (bugs)](https://github.com/diaspora/diaspora/issues) - Currently going through major cleanup
