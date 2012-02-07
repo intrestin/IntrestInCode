@@ -1,10 +1,10 @@
-# Diaspora
+# IntrestIn
 
 The privacy aware, personally controlled, do-it-all, open source social
-network. [Diaspora Project](http://diasporaproject.org)
+network. [IntrestIn](http://intrestin.co.uk)
 
 ************************
-Diaspora is currently going through a huge refactoring push, the code is changing fast!
+IntrestIn is currently going through a huge refactoring push, the code is changing fast!
 If you want to do something big, reach out on IRC or the mailing list first, so you can contribute effectively <3333
 ************************
 
@@ -14,21 +14,15 @@ If you want to do something big, reach out on IRC or the mailing list first, so 
 **TL;DR**
 
 ## Are you a user?
-You can get an account on any Diaspora pod(http://podupti.me or http://dspr.tk/a for a list of pods), or sign up for an invite
-at the pod run by the original development team at https://joindiaspora.com
-
+You can get an account at https://intrestin.co.uk. To try out the power of IntrestIn*
 ## Are you a developer?
 
 Read on for how to get started.
 
-**THIS IS ALPHA SOFTWARE AND SHOULD BE TREATED ACCORDINGLY.**
+**THIS IS BETA SOFTWARE AND SHOULD BE TREATED ACCORDINGLY.**
 **IT IS FUN TO GET RUNNING, BUT EXPECT THINGS TO BE BROKEN.**
 
-## Want an invite?
 
-Diaspora is decentralized. You don't need an invite to joindiaspora.com to fully participate. Just choose your pod for example at http://podupti.me or http://dspr.tk/a If you still want one have a look at https://github.com/diaspora/diaspora/wiki/Invitations Or setup your own pod 
-
-Even if you're not a programmer, we'd love for you to give Diaspora a spin; all suggestions and comments welcome!
 
 
 ## Installation instructions
