@@ -8,11 +8,6 @@ IntrestIn is currently going through a huge refactoring push, the code is changi
 If you want to do something big, reach out on IRC or the mailing list first, so you can contribute effectively <3333
 ************************
 
-[![Build Status](https://secure.travis-ci.org/diaspora/diaspora.png)](http://travis-ci.org/diaspora/diaspora)
-[![Dependency Status](https://gemnasium.com/diaspora/diaspora.png?travis)](https://gemnasium.com/diaspora/diaspora)
-
-**TL;DR**
-
 ## Are you a user?
 You can get an account at https://intrestin.co.uk. To try out the power of IntrestIn*
 ## Are you a developer?
