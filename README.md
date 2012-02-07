@@ -5,7 +5,7 @@ network. [IntrestIn](http://intrestin.co.uk)
 
 
 ## Are you a user?
-You can get an account at https://intrestin.co.uk. To try out the power of IntrestIn*
+You can get an account at https://intrestin.co.uk. To try out the power of IntrestIn*.
 ## Are you a developer?
 
 Read on for how to get started.
